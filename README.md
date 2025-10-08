@@ -1,7 +1,6 @@
 # 👋 ¡Hola! Soy Sebastián Sanmartín  
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/tuusuario)  
-[![Website Badge](https://img.shields.io/badge/-Mi%20Web-47CCCC?style=flat-square&logo=Google-Chrome&logoColor=white)](https://villanuevapuyo.com)  
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/tuusuario)   
 [![Gmail Badge](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:sebasanmartin456@gmail.com)  
 
 ---
@@ -39,9 +38,12 @@ Creo firmemente en la tecnología como herramienta para **transformar ideas en r
 </p>
 
 ---
+### Página Web que he realizado
+[![Website Badge](https://img.shields.io/badge/-Mi%20Web-47CCCC?style=flat-square&logo=Google-Chrome&logoColor=white)](https://villanuevapuyo.com) 
+
+---
 
 ### 📫 Cómo contactarme
-- 🌐 Web: [villanuevapuyo.com](https://villanuevapuyo.com)  
 - 📧 Email: **sebasanmartin456@gmail.com**  
 
 ---
