@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Sebastián Sanmartín  
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/tuusuario)   
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/franklin-sanmartin-quiroz-17a6b2333/)   
 [![Gmail Badge](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:sebasanmartin456@gmail.com)  
 
 ---
